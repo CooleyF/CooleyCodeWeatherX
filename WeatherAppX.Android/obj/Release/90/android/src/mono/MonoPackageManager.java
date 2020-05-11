@@ -110,6 +110,7 @@ public class MonoPackageManager {
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "WeatherAppX.Android.dll" comes first in this list. */
+		"WeatherAppX.Android.dll",
 		"FormsViewGroup.dll",
 		"Newtonsoft.Json.dll",
 		"SharpDX.Direct2D1.dll",
@@ -148,7 +149,6 @@ class MonoPackageManager_Resources {
 		"Xamarin.Android.Support.SlidingPaneLayout.dll",
 		"Xamarin.Android.Support.SwipeRefreshLayout.dll",
 		"Xamarin.Android.Support.Transition.dll",
-		"Xamarin.Android.Support.v4.dll",
 		"Xamarin.Android.Support.v7.AppCompat.dll",
 		"Xamarin.Android.Support.v7.CardView.dll",
 		"Xamarin.Android.Support.v7.RecyclerView.dll",

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WeatherAppX",
+    "\\WeatherAppX.Android",
+    "\\WeatherAppX.Android\\Properties",
+    "\\WeatherAppX.Android\\Resources",
+    "\\WeatherAppX\\obj",
+    "\\WeatherAppX\\obj\\Debug",
+    "\\WeatherAppX\\obj\\Debug\\netstandard2.0",
+    "\\WeatherAppX\\obj\\Release",
+    "\\WeatherAppX\\obj\\Release\\netstandard2.0"
+  ],
+  "SelectedNode": "\\WeatherAppX.Android\\Resources\\Resource.designer.cs",
+  "PreviewInSolutionExplorer": false
+}
